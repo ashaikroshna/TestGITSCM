@@ -4,3 +4,4 @@ while editing the file, status became modified the file
 Added the file which is not versioned.
 then checked out the file
 while editing the file, status became modified the filezxcxz
+dasdasd
